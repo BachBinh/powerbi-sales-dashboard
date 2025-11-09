@@ -31,7 +31,6 @@ The business faced challenges due to intense market competition and potential de
 6.  **Reporting:** Compiled a comprehensive report (5-7 slides) summarizing key findings, actionable insights, and strategic recommendations for improving sales performance.
 
 ## 📈 Key Findings & Recommendations
-(Đây là phần rất quan trọng! Hãy tóm tắt một vài phát hiện nổi bật nhất từ phân tích của bạn và những đề xuất cụ thể mà bạn đã đưa ra trong báo cáo.)
 
 **Finding 1:** The total sales reached **USD 2.3 million** with strong growth over the years; however, the total profit was only **USD 286.43K** with an average profit margin of **12.47%**, and there were **1,871 loss-making transactions**, indicating that operational costs have not been fully optimized.  
 **Recommendation 1:** Reassess operational expenses and overall efficiency, focusing on reducing loss-making transactions through detailed cost analysis by category and region.
