@@ -43,7 +43,7 @@ The business faced challenges due to intense market competition and potential de
 
 ## 🖼️ Dashboard Screenshots
 ### Dashboard Overview
-![Dashboard Overview](overview.png)
+![Dashboard Overview](images/overview.png)
 
 ### Detailed Sales & Profit Analysis
 ![Sales by Category](images/DetailSales&ProfitAnalysis.png)
@@ -52,4 +52,4 @@ The business faced challenges due to intense market competition and potential de
 ![Regional Sales Performance](images/RegionalAnalysis.png)
 
 ### Discount Efficiency Analysis
-![Sales by Category](DiscountEfficiencyAnalysis.png)
+![Sales by Category](images/DiscountEfficiencyAnalysis.png)
